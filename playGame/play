@@ -1,0 +1,19 @@
+
+<!Doctype html>
+<html lang= "en">
+<head>
+<meta charset = "utf-8">
+<title> PlayGame</title>
+
+
+<script src="play.js" defer></script>
+</head>
+<body>
+<p> Введіть задумане число: <input type = "text" id = "mynum"></p>
+<button onclick = "f1()"> Вгадати </button>
+<hr>
+<p id="out"></p>
+<p id ="temp-out"></p>
+</body>
+</html>
+
